@@ -9,7 +9,6 @@
 - Crea un nuevo directorio dentro del directorio odin-recipes y nómbralo recipes.
 - Dentro del directorio recipes, crea un nuevo archivo HTML con el nombre de la receta que contendrá (por ejemplo, lasagna.html).
 - Añade un encabezado con el nombre de la receta como contenido a la nueva página de recetas.
-- En el archivo index.html, crea un enlace a la página de recetas que acabas de crear utilizando el siguiente formato: `<a href="recipes/recipename.html">Título de la Receta</a>`. Reemplaza `recipename.html` con el nombre real del archivo y "Título de la Receta" con el nombre de la receta.
 
 **Iteración 3: Contenido de la Página de Recetas**
 La nueva página de recetas debe tener el siguiente contenido:
